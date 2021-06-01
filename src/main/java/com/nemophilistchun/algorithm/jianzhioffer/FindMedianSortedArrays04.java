@@ -4,7 +4,7 @@ package com.nemophilistchun.algorithm.jianzhioffer;
  * @author chun
  * @date 2021/5/30 14:29
  */
-public class Offer04 {
+public class FindMedianSortedArrays04 {
 
     /**
      * 4. 寻找两个正序数组的中位数

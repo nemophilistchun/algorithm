@@ -5,7 +5,7 @@ package com.nemophilistchun.algorithm.jianzhioffer;
  * @author chun
  * @date 2021/5/30 13:23
  */
-public class Offer02 {
+public class AddTwoNumbers02 {
 
     /**
      * 2. 两数相加

@@ -7,7 +7,7 @@ import java.util.Set;
  * @author chun
  * @date 2021/5/29 21:04
  */
-public class Offer03 {
+public class FindRepeatNumber03 {
 
     /**
      * 在一个长度为 n 的数组 nums 里的所有数字都在 0～n-1 的范围内。数组中某些数字是重复的，
